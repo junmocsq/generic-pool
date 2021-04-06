@@ -56,3 +56,6 @@ if s, err := pool.Acquire();err != nil {
 // 不需要的时候关闭连接池
 pool.Shutdown()
 ```
+
+
+1111
